@@ -1,11 +1,11 @@
 ## Hi, I'm Anthony 🫐
 
-🧠 System Development student
-👀 I’m interested in ...Coding/Anime
-🌱 I create basic systems in Java and C++
-🦑 I’m looking to collaborate on programming projects
-📫 How to reach me ...bompetshitony@gmail.com
-⚡ Fun fact Identical twins dont have the same fingerprints
+🧠 System Development student <br/>
+👀 I’m interested in ...Coding/Anime <br/>
+🌱 I create basic systems in Java and C++ <br/>
+🦑 I’m looking to collaborate on programming projects <br/>
+📫 How to reach me ...bompetshitony@gmail.com <br/>
+⚡ Fun fact Identical twins dont have the same fingerprints <br/>
 
 
 # 💻 Tech Stack:
