@@ -20,7 +20,7 @@
 <img align="center" height="170" src="https://i.pinimg.com/originals/ce/13/d8/ce13d8fa9d17ec31e7b80934f46f8f6f.gif"  />
 
 ###
-<h2 align="left">Tech Stack🎯</h2>
+<h2 align="left">🎯 Tech Stack:</h2>
 
 ###
 
