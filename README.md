@@ -4,9 +4,9 @@
 
 <br clear="both">
 
-<p align="left">I'm a Software Developer based in South Africa</p>
+<p align="left">I'm an Aspiring Full-Stack Developer based in South Africa</p>
 <p align="left">My Portfolio </p>
-<p align="left">https://a3n7h0ny.github.io/Portfolio/</p>
+<p align="left" placeholder="My Professional Portfolio">https://a3n7h0ny.github.io/Portfolio/</p>
 ###
 
 <h2 align="left">About me</h2>
