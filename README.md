@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Anthony</h1>
+<h1 align="left">Salutations 👋 I'm Anthony</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 ###
 ###
 
-<img align="center" height="170" src="https://i.pinimg.com/originals/d5/75/c3/d575c3c0447f05a9f1a4b9e578727be7.gif"  />
+<img align="center" height="170" src="https://i.pinimg.com/originals/51/18/73/511873829447c8db6ce9083833723977.gif"  />
 
 ###
 <h2 align="left">🎯 Tech Stack:</h2>
