@@ -18,7 +18,7 @@
 ###
 ###
 
-<img align="center" height="170" src="https://i.pinimg.com/originals/51/18/73/511873829447c8db6ce9083833723977.gif"  />
+<img align="center" height="170" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 
 ###
 <h2 align="left">🎯 Tech Stack:</h2>
