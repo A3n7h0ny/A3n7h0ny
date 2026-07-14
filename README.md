@@ -1,11 +1,11 @@
-<h1 align="left">Salutations 👋 I'm Anthony</h1>
+<h1 align="left">Salutations I'm Anthony 🎱</h1>
 
 ###
 
 <br clear="both">
 
 <p align="left">I'm an Aspiring Full-Stack Developer based in South Africa</p>
-<p align="left">My Portfolio </p>
+<p align="left">My Portfolio link👇 </p>
 <p align="left" placeholder="My Professional Portfolio">https://a3n7h0ny.github.io/Portfolio/</p>
 ###
 
