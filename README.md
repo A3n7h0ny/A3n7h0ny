@@ -29,6 +29,7 @@
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
+- 🔭 Currently building: **[PROJECT NAME HERE]**
 - 🧠 Building skills from frontend to backend, one project at a time
 - 🚀 Turning ideas into real web applications people can use
 - 🌱 Always learning — staying curious about what's new in tech
@@ -97,7 +98,7 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=60&section=header&text=Trophies&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A3n7h0ny&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=A3n7h0ny&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=60&section=header&text=Dev%20Quote&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
