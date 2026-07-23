@@ -29,7 +29,7 @@
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
-- 🔭 Currently building: **[PROJECT NAME HERE]**
+- 🔭 Currently building: **[Desk Top Games]**
 - 🧠 Building skills from frontend to backend, one project at a time
 - 🚀 Turning ideas into real web applications people can use
 - 🌱 Always learning — staying curious about what's new in tech
