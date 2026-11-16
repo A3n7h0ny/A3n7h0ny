@@ -33,7 +33,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
 - 🔭 Currently building: **Desktop Games**
-- 🎨 Founder of **[Nivira](https://nivira.co.za)** — building websites for small businesses in Johannesburg
+- 🎨 Founder of **[Neemo](https://neemodesign.netlify.app/)** — building websites for small businesses in Johannesburg
 - 🧠 Building skills from frontend to backend, one project at a time
 - 🚀 Turning ideas into real web applications people can use
 - 🌱 Always learning — staying curious about what's new in tech
